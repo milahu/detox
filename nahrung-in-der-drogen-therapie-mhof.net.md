@@ -416,7 +416,7 @@ auf die physischen Aspekte von Sucht.
 Sie [die ganzheitlichen Therapie Programme]
 arbeiten zur Korrektur von biochemische Ungleichgewichten,
 beheben Mangelernährung und behandeln Verdauungsprobleme
--- alle Schlüssel zu Verbesserung
+- alle Schlüssel zu Verbesserung
 und Stabilisierung von Energieniveaus,
 Stimmung und mentaler Klarheit,
 was führt zu mehr Erfolg bei der Therapie. (Atkinson, 2009).
@@ -437,7 +437,7 @@ die innerhalb des Gehirns und zu anderen Teilen des Körpers kommunizieren,
 um alle körperlichen und geistigen Aktivitäten durchzuführen.
 
 Das Gehirn besteht aus drei Teilen
--- Gehirn Stamm, limbisches System und Großhirnrinde --
+- Gehirn Stamm, limbisches System und Großhirnrinde -
 die alle Körperfunktionen kontrollieren:
 Atmen, Essen verdauen, Denken und Emotionen kontrollieren.
 
@@ -464,7 +464,7 @@ um richtig zu funktionieren.
 Dieser Bedarf für eine stetige Versorgung mit Glukose
 wird oft gedeckt mit zuckerhaltigen Snacks, Limonaden
 und raffinierten und verarbeiteten Lebensmitteln
--- eine häufige Diät für Süchtige in der Therapie,
+- eine häufige Diät für Süchtige in der Therapie,
 die oft eine Droge ersetzen
 mit mehr akzeptierten legale "Drogen"
 wie Zucker, Koffein oder Nikotin.
@@ -473,7 +473,7 @@ Wenn zu viele Zucker-Snacks (gefüllt mit einfachen Zuckern)
 gegessen werden, dann können
 starke Schwankungen des Glukose-Spiegels
 im Körper auftreten
--- mit Einfluss auf die Hirn-Funktion
+- mit Einfluss auf die Hirn-Funktion
 und mit allgemeinen Problemen,
 für Süchtige in der Therapie
 wie Hypoglykämie und Nebennierenmüdigkeit
@@ -543,7 +543,7 @@ vor allem aus **Aminosäuren** in Protein-reicher Nahrung.
 Haben wir zu wenige Nährstoffe in der Nahrung,
 wie bei den meisten Süchtigen in Therapie,
 produzieren wir **zu wenige** Neurotransmitter
--- und stören die Balance unseres Hirns noch weiter.
+- und stören die Balance unseres Hirns noch weiter.
 
 Solche Ungleichgewichte
 verändern unsere Stimmung und unser Verhalten
@@ -601,7 +601,7 @@ aber wenige häufige, die Stimmung und Verhalten beeinflussen
 und oft mit Drogen- und Alkoholabhängigkeit verbunden sind
 werden unten beschrieben
 
--- Serotonin, Endorphine, GABA
+- Serotonin, Endorphine, GABA
 und Katecholamine (z. B. Dopamin und Noradrenalin).
 
 Jeder von diesen kann ernsthaft gestört und erschöpft sein
@@ -745,7 +745,7 @@ Das bedeutet, dass Endorphine der Treibstoff
 für ein gesundes Immunsystem sind
 und ohne sie haben Sie eine geschwächte Abwehr
 gegen Bakterien, Viren, Krebs und Autoimmunkrankheiten
--- Probleme, die oft höher sind
+- Probleme, die oft höher sind
 für Drogen- und Alkohol-Abhängige.
 
 
@@ -1544,11 +1544,13 @@ Es ist besonders wichtig, morgens eine Mahlzeit zu sich zu nehmen, um die verbra
 Seite 15
 
 Eine Studie: Milch und Kriminalität Die Schauss-Simonsen-Studie von 1978 verglich die Ernährung von 30 chronisch jugendlichen Straftätern mit der Ernährung von Kindern, die Verhaltensprobleme, aber keinen kriminellen Hintergrund hatten. Sie fanden heraus, dass die Kinder, die in kriminelle Schwierigkeiten geraten waren, viel mehr Milch tranken. Die von Schauss (Schauss und Simonsen, 1979) beschriebenen und in Larson (1997) zitierten Ergebnisse sind: Die männlichen Täter konsumierten durchschnittlich 64 Unzen Milch pro Tag, während ihre Vergleichsgruppe nur durchschnittlich 30 Unzen pro Tag trank. Ähnlich tranken die straffälligen Frauen durchschnittlich 35 Unzen Milch pro Tag, während die Vergleichsgruppe der nicht delinquenten Mädchen nur 17 Unzen pro Tag konsumierte. Unter den straffälligen Jungen berichteten zwei, dass sie mehr als 113 Unzen Milch oder mehr als 14 Unzen Gläser täglich zu sich nahmen. entdeckten, dass viele Alkoholiker allergisch und / oder abhängig von den Zuckern, Trauben und Körnern waren, aus denen Alkohol hergestellt wird. Dr. Herbert Karolus untersuchte ebenfalls 422 Alkoholiker und fand heraus, dass die meisten gegen Weizen oder Roggen allergisch waren, die Getreidesorten vieler destillierter Spirituosen (Larson, 1997). Obwohl einige unerwünschte Nahrungsmittelreaktionen von Geburt an vorhanden sein können, entwickeln sich einige im Laufe der Zeit aufgrund chronischer Exposition oder biologischer Schäden. Aufgrund einer Schädigung des Magen-Darm-Traktes können sich Nahrungsmittelallergien mit Drogen- und Alkoholabhängigkeit entwickeln. Allergien können sich auch im Laufe der Zeit entwickeln, wenn eine begrenzte oder sich wiederholende Diät durchgeführt wird oder weil eine Diät keine essentiellen Nährstoffe und Ballaststoffe enthält (Beasley und Knightly, 1994). Während einige Allergiesymptome wie Nesselsucht oder Schwellung sofort auftreten können, brauchen andere Reaktionen Stunden oder Tage zu erscheinen, was bedeutet, dass sie für eine Weile nicht diagnostiziert werden können. Wenn Allergien nicht diagnostiziert werden, und Sie weiterhin die beleidigenden Lebensmittel essen, wird der Körper gezwungen, sich anzupassen, indem er das Immunsystem herunterreguliert, um die Bedrohung im Wesentlichen zu ignorieren. Indem Sie jedoch Bedrohungen ignorieren, lehren Sie Ihren Körper, andere potentiell gefährliche Bedrohungen zu ignorieren und Ihre Anfälligkeit für andere Krankheiten und Autoimmunkrankheiten zu erhöhen. Verzögerte Nahrungsmittelallergien können auch zu einer Vielzahl von Verdauungsproblemen führen, wie zum Beispiel zu "Leaky Gut" und "Hefeüberwuchterung", wie nachstehend erläutert. Wenn Sie sich nach bestimmten Lebensmitteln sehnen, kann es auch möglich sein, dass Sie allergisch oder süchtig nach diesen Lebensmitteln sind. Diese Nahrungsmittel können dann in Ihrem Körper inkorrekt metabolisiert werden und psychoaktive Chemikalien auslösen, die ein anfängliches Hoch auslösen, gefolgt von einem Verlust der Kontrolle und anderen negativen Symptomen wie Benommenheit, Müdigkeit und Depression. Wenn Sie Allergien oder Nahrungsmittelempfindlichkeiten vermuten, sollten Sie diese Nahrungsmittel vermeiden. Um diese Lebensmittel spezifisch zu bestimmen, möchten Sie vielleicht auch Hauttests und Blutbild von Ihrem Arzt bekommen. Oder sehen Sie sich verschiedene Diäten an, die auf Allergien abzielen (zB Eliminationsdiät) (Larson, 1997). Undichtes Darm Wenn Sie allergisch oder empfindlich auf bestimmte Lebensmittel reagieren und es jahrelang nicht wahrnehmen, können Sie Ihren Verdauungstrakt unwissentlich Substanzen aussetzen, die die Darmschleimhaut stören können. Die Darmschleimhaut ist eine wichtige Barriere zwischen Ihrem inneren Körper und Nahrung und Getränken, die Sie essen; Es absorbiert Nährstoffe und Giftstoffe. Wenn Ihre Darmschleimhaut mit einer hohen Belastung von Giftstoffen oder Allergenen überschwemmt wird, kann es sich entzünden oder beschädigen und die Funktionsweise des Verdauungssystems stören. Dies kann zu chronischen Gesundheitsproblemen wie Arthritis und anderen Autoimmunerkrankungen führen. Leaky-Gut-Syndrom kann als Folge der Einnahme bestimmter Medikamente, Infektionen, Nahrungsmittelallergien oder einer nährstoffarmen, ballaststoffarmen Ernährung auftreten. Was passiert ist, dass sich große Räume im Darm entwickeln und Bakterien, Toxine und unverdaute Nahrungspartikel irrtümlicherweise in den Blutkreislauf gelangen. Sobald er im Blutkreislauf ist, erkennt der Körper sie als "fremde" Eindringlinge und löst das Immunsystem aus, was eine allergische oder Autoimmunreaktion auslöst. Leaky-Gut-Syndrom
+
 --
 
 Seite 16
 
 ist ein häufiges Problem, das mit Allergien, Blähungen, systematischen Pilzinfektionen und Arthritis verbunden ist. Recovery Foods für ein undichtes Gut Da die Darmschleimhaut die höchste Rate an Zell-Umsatz im Körper hat, hat es ein großes Potenzial, sich selbst zu heilen; Die Heilung Ihres Verdauungstraktes kann bei der Genesung genauso wichtig sein wie die Wiederherstellung der Chemie im Gehirn (Gant und Lewis, 2010). Dr. Lauri M. Aesoph, ND, Naturheilpraktikerin, medizinische Autorin und leitende Redakteurin des Journal of Naturopathic Medicine, empfiehlt in ihrem Buch "How to Eat Away Arthritis" eine siebentägige Reinigungsdiät von Salaten, Suppen und Säften zu geben Ihre Leber eine Pause und reduzieren die Menge der schädlichen Verbindungen, die es verwalten muss. Sobald die Reinigungswoche vorbei ist, empfiehlt sie eine nährstoffreiche Woche grundlegender Vollwertkost, um den Darm zu heilen. Diese Nahrungsmittel sind mit Ballaststoffen und komplexen Kohlenhydraten gefüllt und enthalten frisches rohes Obst, frisches Gemüse (roh oder leicht gedämpft), Bohnen und Hülsenfrüchte, nichtglutenhaltige Vollkornprodukte (z. B. brauner Reis, Quinoa, Amaranth, Hirse), etwas kaltes Wasser Fisch und eine kleine Menge roher, ungesalzener Samen zusammen mit Wasser, Kräutertees und einer kleinen Menge Canola oder Olivenöl. Bestimmte Nahrungsmittel können das Verdauungssystem belasten und sollten vermieden werden - Nahrungsmittel wie stark gesättigtes Fett, Protein und einfache Kohlenhydrate sowie raffinierte Nahrungsmittel. Zusatzstoffe und Konservierungsstoffe erzeugen Darmveränderungen, die die Verdauung stören und den Übertritt von übergroßen Molekülen ins Blut ermöglichen. Das überfordert nicht nur eine fleißige Leber, sondern stört auch das Immunsystem. Im Gegensatz zu frischen, rohen Lebensmitteln haben gekochte raffinierte Lebensmittel sehr wenig oder keine natürlichen Enzyme übrig. Dies stellt eine größere Nachfrage nach dem Verdauungsenzymreservoir Ihres Körpers. Hefe / Candida-Probleme Hefe-Probleme sind ein anderes Problem, das häufig mit Sucht verbunden ist, insbesondere Alkoholismus und Zuckerabhängigkeit. Dieser Zustand, der allgemein als Candida oder manchmal als Candida-related complex (CRC) oder Candida albicans bezeichnet wird, ist weit verbreitet und verursacht eine Hefe Überwucherung im Verdauungstrakt, Nebenhöhlen und vaginalen Bereich. Pilotstudien über die Krankenakten von 213 Patienten, die im Health Recovery Center in Kalifornien behandelt wurden, wurden 1991 im International Journal of Biosocial and Medical Research veröffentlicht. Sie zeigten, dass 55 Prozent der Frauen und 35 Prozent der Männer eine Candida-Vorgeschichte hatten Überwucherung (Larson, 1997). Wie funktioniert es? Es gibt über 400 verschiedene Arten einzelliger Organismen, hauptsächlich Bakterien und Hefen, die den Dickdarm bewohnen und manchmal als Darmflora bezeichnet werden. Einige Mikroorganismen, wie Acidophilus und Bifidobakterien, sind von Vorteil. Andere wie Candida, Salmonellen und Staphylokokken sind schädlich. Für gesunde Menschen wird ein Gleichgewicht zwischen den guten und den schlechten Mikroorganismen aufrechterhalten. Dieses Gleichgewicht ist entscheidend für den Verdauungsprozess, die Aufnahme von Nährstoffen und die Produktion von Vitaminen im Körper. Wenn das Gleichgewicht gestört ist, beginnen sich die schädlichen Mikroorganismen, die normalerweise nur in geringen Mengen im Darmtrakt gefunden werden, zu vermehren und die nützlichen zu übertreffen. Diese schädlichen Mikroorganismen setzen Toxine frei, die lokalisierte Infektionen verursachen können, die sich auf die Leber und andere Organe ausbreiten können. Es zwingt das Immunsystem dazu, Antikörper und Entzündungsmediatoren zu produzieren, um den Auswirkungen von Toxinen entgegenzuwirken.
+
 --
 
 Seite 17
