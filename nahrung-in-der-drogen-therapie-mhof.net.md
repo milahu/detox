@@ -1,32 +1,33 @@
+
 # Nahrung in der Drogen Therapie
 
-### Eine Übersetzung von: [Nutrition in Addiction Recovery](<http://mhof.net/articles/nutrition-addiction-recovery.html>)
+#### Eine Übersetzung von: [Nutrition in Addiction Recovery](<http://mhof.net/articles/nutrition-addiction-recovery.html>)
 #### Im Original von: Rebecca Place Miller, Many Hands Organic Farm
-<!---
 
-# nutrition in addiction recovery
-# by Rebecca Place Miller
-#
-# http://mhof.net/articles/nutrition-addiction-recovery.html
-# http://mhof.net/sites/default/files/Addiction%20and%20Recovery%20Report.pdf
-#
-# translation EN ----> DE, english to german
-# based on google translate: https://translate.google.com/
-# please help translate
+[//]: # (# )
+[//]: # (# nutrition in addiction recovery)
+[//]: # (# by Rebecca Place Miller)
+[//]: # (# )
+[//]: # (# http://mhof.net/articles/nutrition-addiction-recovery.html)
+[//]: # (# http://mhof.net/sites/default/files/Addiction%20and%20Recovery%20Report.pdf)
+[//]: # (# )
+[//]: # (# translation english to german)
+[//]: # (# based on google translate: https://translate.google.com/)
+[//]: # (# please help translate)
+[//]: # (# )
+[//]: # (# edit history:)
+[//]: # (# 2018-01-09 17:20 moved page numbers to page head. line wrap to page 6.)
+[//]: # (# 2018-01-11 10:30 google-translated to page 37. manual translated to page 3. added HTML and CSS markup.)
+[//]: # (# 2018-01-11 12:30 manual translate to line 560)
+[//]: # (# 2018-01-11 17:00 manual translate to line 750)
+[//]: # (# 2018-01-14 11:20 manual translate to line 860)
+[//]: # (# 2018-01-16 16:30 manual translate to line 1170 = page 11 of 36)
+[//]: # (# 2018-02-06 17:00 manual translate to line 1264 = page 12)
+[//]: # (# 2018-02-11 09:40 manual translate to line 1408)
+[//]: # (# 2018-02-16 16:20 manual translate to line 1509)
+[//]: # (# )
 
-# edit history:
-# 2018-01-09 17:20 moved page numbers to page head. line wrap to page 6.
-# 2018-01-11 10:30 google-translated to page 37. manual translated to page 3. added HTML and CSS markup.
-# 2018-01-11 12:30 manual translate to line 560
-# 2018-01-11 17:00 manual translate to line 750
-# 2018-01-14 11:20 manual translate to line 860
-# 2018-01-16 16:30 manual translate to line 1170 = page 11 of 36
-# 2018-02-06 17:00 manual translate to line 1264 = page 12
-# 2018-02-11 09:40 manual translate to line 1408
-# 2018-02-16 16:20 manual translate to line 1509
-
--->
-```
+```text
 
 Seite -1
 
@@ -90,7 +91,7 @@ Seite 1
 
 ```
 ## Inhaltsverzeichnis
-```
+```text
 
 I. Einleitung
 
@@ -132,7 +133,7 @@ Seite 2
 
 ```
 # I. Einleitung
-```
+```text
 
 Die Verbindung zwischen Sucht und Ernährung herstellen:
 ein Literatur Überblick.
@@ -230,7 +231,7 @@ Seite 3
 
 ```
 # II. Was ist Sucht?
-```
+```text
 
 Sucht ist eine komplexe Krankheit in Körper und Geist.
 
@@ -344,7 +345,7 @@ Seite 4
 
 ```
 ## Sucht Therapie Programme
-```
+```text
 [#todo recovery = Therapie, Wiederherstellung, Reha]
 
 In der Vergangenheit umfassten
@@ -426,7 +427,7 @@ Seite 5
 
 ```
 # III. Sucht im Hirn
-```
+```text
 
 Drogen und Alkohol können stören die Hirn-Funktion.
 
@@ -481,7 +482,7 @@ wie Hypoglykämie und Nebennierenmüdigkeit
 
 ```
 ## Neurotransmitter: Chemische Botenstoffe im Gehirn
-```
+```text
 
 Gehirnneuronen kommunizieren miteinander
 über ein komplexes Netzwerk
@@ -558,7 +559,7 @@ finden Sie in Abschnitt V. dieses Dokuments.
 
 ```
 ### Ein unausgewogenes Gehirn
-```
+```text
 
 Wenn der ganze Nährstoff-Bedarf des Gehirns
 gedeckt wird durch Nahrung,
@@ -610,7 +611,7 @@ bei Menschen mit Drogen- und Alkohol-Sucht.
 
 ```
 ### Serotonin
-```
+```text
 
 Serotonin ist eine Gehirn-Chemikalie [Naturstoff],
 die hilft, Stimmung, Schlaf, Schmerz,
@@ -667,7 +668,7 @@ können einen ähnlichen Effekt haben wie Zucker.
 
 ```
 ### Endorphine
-```
+```text
 
 Endorphine sind Gehirn-Chemikalien [Naturstoffe],
 die natürlich im Gehirn hergestellt werden,
@@ -751,7 +752,7 @@ für Drogen- und Alkohol-Abhängige.
 
 ```
 ### Gamma-Aminobuttersäure (GABA)
-```
+```text
 
 GABA ist eine Gehirnchemikalie,
 die mit _mentaler_ Entspannung im Körper verbunden ist,
@@ -810,7 +811,7 @@ die Ihnen vorübergehend helfen, sich zu entspannen.
 
 ```
 ### Dopamin und andere Katecholamine
-```
+```text
 
 Dopamin und NorAdrenalin
 sind die beiden wichtigsten Katecholamin - Neurotransmitter,
@@ -857,7 +858,7 @@ die häufig von Kokain-Nutzern berichtet wird (NIDA, 2009).
 
 ```
 ## Therapie-Nahrung für Neurotransmitter
-```
+```text
 
 Wie oben beschrieben, können Suchtmittel [Drogen, Medikamente]
 das Gleichgewicht der Neurotransmitter im Gehirn stören
@@ -946,7 +947,7 @@ weiter unten in diesem Dokument).
 
 ```
 ## Zusammenfassung der missbrauchten Substanzen
-```
+```text
 und der damit verbundenen Gesundheitsprobleme
 
 
@@ -962,7 +963,7 @@ von denen die meisten in diesem Dokument weiter behandelt werden.
 Droge:
 ```
 ### Alkohol
-```
+```text
 
 Neurotransmitter betroffen:
 GABA, Serotonin, Endorphin / Enkephalin
@@ -1010,7 +1011,7 @@ Assoziierte Gesundheitsprobleme:
 Droge:
 ```
 ### Opiate
-```
+```text
 (zB Morphin, Heroin, Opium, Oxycontin, Codein, Methadon, [Fentanyl])
 
 Neurotransmitter Betroffen:
@@ -1047,7 +1048,7 @@ Assoziierte Gesundheitsprobleme:
 Droge:
 ```
 ### Marihuana
-```
+```text
 
 Neurotransmitter Betroffen:
 Dopamin
@@ -1078,7 +1079,7 @@ Seite 10
 Droge:
 ```
 ### Stimulanzien
-```
+```text
 (zB Kokain, Amphetamine, Ritalin, [Coffein? #todo])
 
 Neurotransmitter Betroffen:
@@ -1118,7 +1119,7 @@ Seite 11
 
 ```
 # IV. Sucht im Körper
-```
+```text
 
 Sucht kann zu ernährungs-bedingten Problemen führen
 wie Hypoglykämie [Unterzucker],
@@ -1150,8 +1151,8 @@ Jede dieser Bedingungen wird unten diskutiert.
 
 
 ```
-## Hypoglykämie [Unterzucker]
-```
+## Hypoglykämie = Unterzucker
+```text
 
 Ein häufiges Problem
 bei der Therapie von Drogen- und Alkohol-Abhängigen
@@ -1185,7 +1186,7 @@ wie in der folgenden Liste gezeigt.
 
 ```
 ### Hypoglykämie [Unterzucker] und Alkoholismus
-```
+```text
 
 Die Forschung hat einen Zusammenhang gezeigt
 zwischen Hypoglykämie und Alkoholismus.
@@ -1295,7 +1296,7 @@ Seite 12
 
 ```
 ### Wie funktioniert es?
-```
+```text
 
 Bei der Verdauung
 werden Lebensmittel in viele Nährstoffe zerlegt.
@@ -1371,10 +1372,9 @@ die im nächsten Abschnitt diskutiert wird.
 
 ```
 ### Gesund Essen für Hypoglykämie
-```
-```
+```text
 #todo 'Recovery Foods' = Heilende / Therapeutische Nahrung
-```Viele Süchtige in Therapie
+Viele Süchtige in Therapie
 haben chaotische **Essgewohnheiten** und **Diäten**
 [inkonsistente Gewohnheiten, Warten auf den nächsten Heisshunger.]
 voller hoch-verarbeiteter Kohlenhydrate und Zucker.
@@ -1419,7 +1419,7 @@ weiter in diesem Dokument.
 
 ```
 ## Nebennieren Müdigkeit [Adrenal Fatigue]
-```
+```text
 
 _Adrenal Fatigue_ ist ein weiteres häufiges Problem
 für Alkohol- und Drogen-Süchtige.
@@ -1443,8 +1443,8 @@ und Nebennieren-Müdigkeit einsetzt.
 
 
 ```
-### Wie funktioniert es? 
-```
+### Wie funktioniert es?
+```text
 
 Nebennieren sind Teil des Endokrinen Systems [innere Drüsen]
 und helfen Ihnen, Geist und Körper zu regeln.
@@ -1521,11 +1521,11 @@ wie Schlafmangel oder Stress.
 --
 
 Seite 14
-```
+
 #todo
 ``````
 ## Therapie Nahrung für Nebennieren Müdigkeit
-```
+
 
 Ihre Nebennieren sind die Regulatoren Ihrer Disposition,
 Ihre geistige Leistungsfähigkeit und Ihre Persönlichkeit.
@@ -1594,6 +1594,7 @@ Essenzielle Fettsäuren und Alkoholismus Forscher haben vorgeschlagen, dass der 
 Seite 24
 
 
+```text
 
 Bio-Lebensmittel und essentielle Fettsäuren
 
@@ -1644,7 +1645,7 @@ die für den sich erholenden Süchtigen oder Alkoholiker entscheidend sind
 
 ```
 ## Recovery Foods für Fette
-```
+```text
 
 Hochwertige Fette sind wichtig in der Ernährung.
 Die besten Quellen für Nahrungsfett für Menschen in der Genesung
@@ -1697,10 +1698,12 @@ hier sind drei Arten von hochwertigen Fetten:
 
 --
 
+```
+
 Seite 25
 
 Nährstoffarme Böden = Nährstoffarme Nahrung Wenn Böden überstrapaziert und mit Chemikalien und Kunstdünger behandelt werden, werden Mineralien abgebaut. Das bedeutet, dass auch die in diesen Böden wachsende Nahrung verbraucht wird. Wenn möglich, entscheiden Sie sich für Bio-Produkte, von denen gezeigt wurde, dass sie Früchte und Gemüse mit einem höheren Gehalt an Vitaminen und Mineralstoffen produzieren. Vitamine / Mineralien Vitamine und Mineralien werden täglich in kleinen Mengen benötigt, damit der Körper richtig funktioniert. Diese Substanzen werden für die richtige Zellfunktion und für alle körperlichen Prozesse benötigt. Kein Vitamin wirkt alleine. Vitamine und Mineralien wirken in einem komplexen Prozess zusammen, der nicht vollständig verstanden wird. Vitamine sind für jeden biochemischen Prozess im Körper erforderlich, aber sie können nicht funktionieren, außer die Mineralien sind auch da. Mineralien sind ein Katalysator für diese biochemischen Prozesse. Wenn alle essentiellen Vitamine nicht in ausgewogenen Mengen konsumiert werden, wird die Wirksamkeit eines einzelnen Vitamins stark reduziert, wenn nicht gar vollständig aufgehoben (Harte und Chow, 1964; Stitt, 2004). Ernährungsdefizite Alkohol- und Drogenkonsumenten sind häufig in wichtigen Mineralstoffen wie Calcium, Magnesium, Zink und Chrom sowie Vitamin C und den B-Komplex-Vitaminen Mangel (Public Health Service, Nationale Gesundheitsinstitute, 2000; Marsano, 1989; Beasley und Knightly, 1994). Dr. Beasley in Food for Recovery stellt fest, dass er sich nie um einen Alkoholiker oder einen anderen Süchtigen gekümmert hat, der nicht an Vitaminen und Mineralien mangelt - sowohl wegen seiner miserablen Ernährung als auch wegen der durch die Abhängigkeit verursachten Schädigung der Organe, die Nährstoffe verarbeiten . Zink: Unausgewogene Mahlzeiten und der übermäßige Konsum von Zucker, Koffein, Alkohol und Drogen können die zusätzlichen Zinkvorräte der Leber auslaugen. Zink ist ein essentielles Mineral, das viele Vorteile bei der Regeneration haben kann. Die Prozesse sind ziemlich kompliziert und nicht vollständig verstanden, aber es wird angenommen, dass Zink bei der Leberfunktion hilft und ein gesundes Immunsystem sowie die Gehirnfunktion unterstützt. Zink hilft auch Insulin seine Arbeit zu tun und hilft bei der Verdauung der Nahrung, die Sie essen (DesMaisons, 1998). Zinkmangel kann Symptome wie kalte Extremitäten, schlechte periphere Durchblutung, Verlust von Geschmack, Geruch, schlechte Wundheilung, Lethargie, Appetitlosigkeit, Akne und Hypothyreose hervorrufen. Chrom: Chrom ist ein Mineral, das in Spuren im Körper benötigt wird, um Blutzucker oder Glukose zu regulieren. Dies ist besonders wichtig für diejenigen, die an Hypoglykämie leiden, wie zuvor in diesem Dokument diskutiert. Symptome von Chrommangel sind Hypoglykämie, Diabetes und Herzerkrankungen (Larson, 1997). Beachten Sie auch, dass Lebensmittel, die reich an Einfachzuckern sind, wenig Chrom enthalten (Kozlovsky, Moser und Anderson, 1986; Nationales Institut für Gesundheit, Website für Nahrungsergänzungsmittel, 2010). Finnegan und Gray (1990) stellen fest, dass der Verzehr von raffiniertem Zucker und Kohlenhydraten den Chromverlust um bis zu 300 Prozent erhöhen kann. Calcium / Magnesium: Viele Drogen- und Alkoholabhängige haben Calciummangel. Das ist teilweise auf eine schlechte Ernährung und unzureichende Aufnahme von Kalzium zurückzuführen. Es ist auch aufgrund der Tatsache, dass Zucker, Koffein, Alkohol und andere Drogen verursachen den Körper Kalzium zu beseitigen. Es wurde gezeigt, dass Koffein die Ausscheidung von Calcium im Urin verdoppelt (Werbach, 1987; Finnegan und Gray, 1990). Finnegan und Grey in der Wiederherstellung von Sucht zeigen, dass Kalzium
---
+    --
 
 Seite 26
 
@@ -1736,56 +1739,60 @@ Seite 31
 
 Denken Sie auch daran, dass das Essen nur so gut ist wie der Boden, in dem es angebaut wird. Überalterter, nährstoffarmer Boden, der stark mit Chemikalien behandelt wurde, produziert nährstoffarme Pflanzen. Ökologischer Landbau gleicht das ökologische Umfeld aus: Der Boden ist mit organischen Materialien wie Fischmehl, Zwischenfrucht und Seetang anstelle von synthetischen Chemikalien angereichert und stützt sich eher auf biologische Kontrollen wie Raubinsekten als auf Pestizide. Aufgrund dieser Art von Maßnahmen haben Obst und Gemüse aus biologischem Anbau einen höheren Nährwert. Fleisch Fleisch und Geflügel sind eine hervorragende Eiweißquelle sowie viele lebenswichtige Vitamine und Mineralstoffe. Sie sind ein wichtiger Teil der Ernährung für diejenigen in der Genesung. Tiere, die in Gefangenschaft aufgezogen und mit konventionellem Getreide gefüttert werden, sind jedoch mit gesättigtem Fett und Cholesterin beladen. Bio-, Freiland- und Gras-gefütterte Tiere sind viel niedriger in gesättigten Fetten und Cholesterin. Ebenfalls hat der übermäßige Einsatz von Antibiotika im Fleisch- und Molkereigeschäft zu potenziell tödlichen Antibiotika-resistenten Salmonellenstämmen geführt, die heute eine erhebliche Gesundheitsgefährdung darstellen. Auch in Fleisch, Milch oder Geflügel aufgenommene Hormone können das empfindliche Gleichgewicht zwischen Körper und Gehirn stören. Meeresfruchte Meeresfrüchte sind gut für die Genesung, denn sie liefern komplette Proteine ​​und Vitamin B12. Es ist auch eine gute Quelle von Omega-3 essentiellen Fettsäuren, die immunologische Probleme wie Arthritis und Asthma reduzieren können. Es bietet Ihnen auch wichtige Spurenelemente wie Jod, Fluorid, Selen, Zink und Kupfer und mehrere wichtige Mineralien. Phosphor, Magnesium, Natrium, Kalium und Eisen sind alle in Fisch enthalten. Wählen Sie jedoch sorgfältig, da Fische Toxine in ihrem Fettgewebe von chemischen und biologischen Abfällen im Meer sammeln können. Was nicht zu essen ist Schlechte Ernährung ist einer der kritischen Risikofaktoren für Drogenmissbrauch. Wenn Sie Ihre Ernährung ignorieren, riskieren Sie einen Rückfall (Gant und Lewis, 2010). Wenn Sie eine Diät essen, die reich an "Junk Food" ist, können Sie es schwer finden, substanzfrei zu bleiben. Junk Food ist hoch verarbeitet und enthält Konservierungsstoffe, Hormone, künstliche Farbstoffe und Zucker. Im Folgenden finden Sie eine Liste mit einigen zu vermeidenden Elementen. Zucker Zucker ist eine der häufigsten Nahrungsmittel, die ein genesender Süchtiger anwendet, wenn er versucht, sauber und nüchtern zu bleiben. Das liegt daran, dass Zucker ähnlich wie Drogen und Alkohol wirkt, um eine vorübergehende Linderung von den niedrigen Blutzuckerspiegeln zu schaffen, die unter den Süchtigen zu finden sind. Leider kann Zucker in Form von Schokoriegeln, Kuchen, Krapfen und Soda (zusammen mit anderen hoch raffinierten Kohlenhydraten wie Weißmehl) Hypoglykämie Probleme verschlimmern. Zucker ist überall und kommt in vielen Formen wie Saccharose, Mais-Süßstoffe, Honig, Ahornsirup und Melasse. Es ist in vielen Lebensmitteln wie Joghurt mit Geschmack, Fruchtgetränke, Ketchup, Pizza, Hot Dogs, Brot und einige Erdnussbutter gefunden. Sie können Zucker erkennen und in kommerziellen Lebensmitteln vermeiden, indem Sie auf die Etiketten für Inhaltsstoffe schauen, die auf -ose oder -ol enden (DesMaisons, 1999). Raffinierte Zucker wie Saccharose, Maissirup mit hohem Fructosegehalt und Dextrose liefern keinen Nährwert. In der Tat, sie tun das Gegenteil - sie verbrauchen tatsächlich den Körper von Enzymen, Mineralien und Vitaminen, besonders die Vitamine des B-Komplexes. (Lipinski, 2003). Wenn eine Mahlzeit ernährungsphysiologisch schlecht ist, ist Ihr
 
---
+    --
 
 Seite 32
 
 Der Körper muss die Nährstoffe, die er aus seinen eigenen Nahrungsmitteln aufnehmen kann, entfernen, um den Zucker zu verstoffwechseln und damit wertvolle Nährstoffe zu berauben. Diejenigen, die versuchen, Zucker zu vermeiden, wenden sich oft künstlichen Süßstoffen zu. Diese können Probleme mit Gewichtszunahme, erhöhtem Verlangen nach Süßigkeiten, gestörter Koordination, verminderter mentaler Funktion, Diabetes, MS, Parkinson, Krämpfen und Migräne verursachen. Es wird empfohlen, künstlichen und raffinierten Zucker durch natürlich vorkommende Süßstoffe wie Rohrohrzucker, reinen Ahornsirup, rohen Honig oder Melasse zu ersetzen. Aber verwenden Sie sie sparsam, da natürliche Süßstoffe in ähnlicher Weise Ihren Blutzuckerspiegel beeinflussen und zu Heißhunger auf Süßigkeiten beitragen können. Achten Sie darauf, Zucker mit guten Fetten und Proteinen auszugleichen, um den Blutzuckerspiegel zu stabilisieren und das Verlangen nach Süßigkeiten zu reduzieren (Lipinski, 2003). Verarbeitete Nahrungsmittel Ein Großteil des Zuckers in unseren Diäten stammt aus vorbereiteten, verarbeiteten Lebensmitteln (Stitt, 2004; US-Diätziele, 1977). Verarbeitete Lebensmittel sind Lebensmittel, die aus Gründen der Sicherheit oder der Bequemlichkeit aus ihrem ursprünglichen natürlichen Zustand verändert wurden - Lebensmittel, die geschnitten, gewürfelt, gekocht, gepufft, gemahlen, in Dosen abgefüllt oder aus ihrem ursprünglichen Zustand verändert wurden. Nicht alle verarbeiteten Lebensmittel sind schlecht. Zum Beispiel wird gefrorenes Essen verarbeitet, ist aber immer noch eine gute Quelle für Obst und Gemüse, wenn kein frisches Obst verfügbar ist. Dort gibt es viele verarbeitete Lebensmittel, die jedoch nicht gesund sind, weil sie mit gesättigten Fetten, Zucker, Natrium, künstlichen Aromen und Farben und anderen ungesunden Zusätzen hergestellt werden. Viele verarbeitete Lebensmittel werden von Nährstoffen befreit. Wie Paul Stitt in seinem Buch Beating the Food Giants (2004, zitiert in Stitt, 2004) schreibt: "Der Mahlprozess zerstört 40 Prozent des im gesamten Korn vorhandenen Chroms sowie 86 Prozent des Mangans, 89 Prozent des Mangans Kobalt, 68 Prozent des Kupfers, 78 Prozent des Zinks und 48 Prozent des Molybdäns. Bis es vollständig raffiniert ist, hat es den größten Teil seines Phosphors, Eisens und Thiamins und einen Großteil seines Niacins und Riboflavins verloren. Sein Rohfasergehalt wurde ebenfalls deutlich reduziert. Weißmehl wurde mit dem größten Teil seines Vitamin E, wichtigen Ölen und Aminosäuren geplündert. "Weißmehl Weißmehl ist eine hochverarbeitete Lebensmittelwahl und sollte vermieden werden. Der Körper bricht Weißbrot wie Zucker und es kann zu vielen der gleichen Probleme führen. Wenn Vollkornmehl verarbeitet und zu Weißmehl verarbeitet wird, werden die B-Vitamine sowie Vitamin E, Kalzium, Zink, Kupfer, Mangan, Kalium und Ballaststoffe entfernt. Weil es Faser fehlt, kann es Verstopfung und andere Darmprobleme verursachen. Weizen ist auch ein Hauptallergen und kann Reaktionen wie Kopfschmerzen, Müdigkeit, Malabsorption, Reizbarkeit, Stauung der oberen Atemwege, Übelkeit, Durchfall und andere Darmerkrankungen wie Zöliakie und Morbus Crohn verursachen. Weißes Mehl findet sich in den meisten kommerziellen Brotsorten, Crackern, Teigwaren, Bagels und Pfannkuchenmischungen. Vermeiden Sie diese Arten von Lebensmitteln und ersetzen Sie sie durch Vollkornprodukte und komplexe Kohlenhydrate. Additiv Eine Reihe von Additiven in Lebensmitteln wurde mit Veränderungen im Gehirn in Verbindung gebracht und kann zu Hyperaktivität und / oder Lernschwierigkeiten beitragen. Einige dieser Zusatzstoffe umfassen: Mononatriumglutamat (MSG), das in kommerziell verarbeiteten Nahrungsmitteln gefunden wird, wie z. B. Vorräte, Soßen, Chips, Dips und verarbeitete Fleischwaren; Phenylethylamin in Schokolade; Tyramin in gealtertem Käse und Chianti; Xanthine aus Koffein; und Aspartam, welches der künstliche Süßstoff ist, bekannt als
 
---
+    --
 
 Seite 33
 
 NutraSweet. Es wurde gezeigt, dass Aspartam die Synthese von Serotonin blockiert (Wurtman, 1983; Fishbein und Pease, 1988). Diese Zusätze können auch dazu führen, dass einige Personen Manie, verkürzte Aufmerksamkeitsspanne, Ablenkbarkeit und beeinträchtigte Problemlösungsfähigkeit erfahren (Drake, 1986; Walton, 1986; Fishbein und Pease, 1988). Phosphate sind eine weitere Gruppe von Zusatzstoffen, die in verarbeiteten Lebensmitteln verwendet werden und daher vermieden werden sollten. Phosphate können in Getränken, Ölen, Backwaren, Erfrischungsgetränken und Fruchtprodukten gefunden werden. Sie wurden mit Hyperaktivität bei bestimmten Kindern in Verbindung gebracht, deren Verhaltensprobleme abnahmen, als die Phosphate aus ihrer Nahrung entfernt wurden (Walker, 1982; Fishbein und Pease, 1988). Überprüfen Sie Ihre Etiketten auf all diese Zusätze und vermeiden Sie den Kauf von Produkten, die sie enthalten. Maissirup mit hohem Fructosegehalt Maissirup mit hohem Fructosegehalt ist ein häufiger Bestandteil, der in vielen verarbeiteten und verpackten Lebensmitteln vorkommt. Es hat in Studien gezeigt, dass sie zu Fettleibigkeit und Herz-Kreislauf-Erkrankungen führen (USDA, 1984). Es kann den Körper von Nährstoffen verarmen und Blutspiegel von Cholesterin erhöhen. Es kann auch die Alterung verarbeiten. Maissirup mit hohem Fructosegehalt findet sich in einer breiten Palette von Lebensmitteln, einschließlich Brot, Getreide, Softdrinks und sogar in einigen Ketchup- und Spaghettisoßen. Überprüfen Sie Ihre Etiketten und versuchen Sie es zu vermeiden. Hydrierte Öle Hydrierte Öle werden durch Umordnen der Fettsäuremoleküle hergestellt. Diese bilden Transfette, die schwer zu verdauen sind und Probleme wie Herzerkrankungen, Diabetes und Fettleibigkeit verursachen können. Hydrierte Öle sind in fast allen verarbeiteten Lebensmitteln, kommerziellen Salatdressings, Sandwichaufstrichen und Margarine enthalten. Es wird empfohlen, auf hydrierte Öle zu verzichten und sie durch echte Butter oder Öle wie extra-kaltgepresstes Olivenöl, Leinsamenöl und Kokosnussöl zu ersetzen. Alle sind reiche Quellen von gesättigten Fettsäuren und einigen Vitaminen. Koffein Viele erholte Süchtige werden zu Koffein, wenn sie versuchen, sich von Drogen und Alkohol zu erholen. Leider ist Koffein nur eine andere Art von Droge, die Ihr chemisches Gleichgewicht verändert. Es pumpt Adrenalin in den Blutkreislauf, der zeitweilig Energie liefert. Adrenalin deponiert auch den gespeicherten Zucker in den Blutkreislauf, was zu einem Ausfluss von Insulin führt. Koffein stimuliert die Nebennieren und führt schließlich zu Nebennieren Erschöpfung und Symptome wie Müdigkeit, Mangel an körperlicher Ausdauer und Ausdauer, beeinträchtigte Fähigkeit, mit Stress umzugehen, depressive Immunsystem, allergische Reaktionen, Gewichtszunahme, niedriger Blutdruck, Schwindel und Benommenheit oder Blackout wenn du aufstehst. Koffein regt auch die Leber dazu an, mehr Zucker im Blutstrom freizusetzen und betont darüber hinaus den empfindlichen Zucker regulierenden Mechanismus des Körpers. Es beeinträchtigt auch die Calciumabsorption. Während es schwierig sein kann, die Koffeinsucht zu bekämpfen, beginnen Sie langsam. Zum Beispiel können Sie beginnen, indem Sie Ihre Koffeinaufnahme in der Hälfte jede Woche schneiden, bis Sie es nicht mehr brauchen. Essen Sie auch proteinhaltige Mahlzeiten mit natürlichen Kohlenhydraten und guten Fetten, um Ihren Blutzucker stabil zu halten und Ihr Verlangen nach Zucker und Koffein zu reduzieren.
 
---
+    --
 
 Seite 34
 
-Essenszeiten Neben dem Verzehr von hochwertigen Lebensmitteln ist das Essen zur richtigen Zeit auch ein wichtiger Teil des Ernährungspuzzles zur Genesung von Suchtkranken, insbesondere bei Patienten, die hypoglykämisch oder zuckerempfindlich sind. Es ist wichtig für den Körper eine stetige Versorgung mit Treibstoff zur Kontrolle der Blutzuckerebenen zu erhalten. Dies kann die Stimmung und die Selbstkontrolle verbessern und eine ausreichende Menge an wichtigen Neurotransmittern wie Beta-Endorphin und Serotonin bereitstellen. Dies kann auch dazu beitragen, Heißhunger zu reduzieren, die oft Bemühungen zur Genesung blockieren. In den für dieses Dokument untersuchten Studien wurde gezeigt, dass verschiedene Essgewohnheiten gut für die Genesung von Süchtigen geeignet sind. Zum Beispiel empfiehlt Food  & Behavior drei Hauptmahlzeiten sowie leichte Snacks alle paar Stunden, damit Ihr Blutzucker nicht zu einem kritischen Punkt sinkt. Im Gegensatz dazu empfiehlt Potatoes nicht Prozac, in regelmäßigen Abständen nur drei proteinreiche Mahlzeiten pro Tag zu essen. Dieses Programm empfiehlt nicht die "6 mal am Tag" -Essenpläne für zuckerempfindliche Menschen, da das Naschen oft zu einer Beweidung für diejenigen führt, die empfindlich auf Zucker reagieren. Es wird empfohlen, dass Sie nie länger als 6 Stunden zwischen dem Essen bleiben, außer zwischen dem Abendessen und dem Frühstück. Im Allgemeinen müssen Sie auf Ihren Körper hören und sehen, was für Sie funktioniert. Da es nicht immer möglich ist, Zeit zu nehmen, wenn Sie hungrig sind oder einen Imbiss benötigen, sollten Sie gesunde Snacks mit sich führen, wie Nüsse und Samen, Trockenfrüchte (wenn Sie nicht zuckerempfindlich sind) und Karottenscheiben. Kann Essen bei der Genesung helfen? Während es in vielen aktuellen Programmen zur Drogen- und Alkoholwiederherstellung immer noch zur Debatte steht und nicht weit verbreitet ist, deuten eine Reihe von Studien darauf hin, dass die Korrektur biochemischer Ungleichgewichte bei der Ernährung einen Einfluss auf das Verhalten und die Genesung haben kann. Einige Studien sind in loser chronologischer Reihenfolge aufgelistet. Weitere Informationen finden Sie in Abschnitt VII. Liste der Ressourcen 1940er - 1950er Jahre: Roger J. Williams, der Biochemiker, der Folsäure genannt und Pantothensäure (eines der B-Vitamine) gefunden hat, veröffentlicht Erkenntnisse aus jahrelangen Studien an der Universität von Texas über die Auswirkungen der Ernährung auf den Alkoholkonsum bei Tieren in das Buch namens Biochemische Individualität. Die Daten zeigen, dass Tiere, die die Wahl zwischen Alkohol und Wasser hatten, häufiger Alkohol wählten, wenn sie ernährungsbedingt waren, als wenn sie gut gefüttert wurden (Williams, 1956; Williams, 1962; Beasley und Knightly, 1994). Ratten auf qualitativ hochwertigen Diäten konsumierten freiwillig viel weniger Alkohol (weniger Zucker) als Menschen mit Mangelernährung. Williams ist auch in der Lage, den Alkoholkonsum nach oben und nach unten zu verschieben, basierend auf dem absichtlichen Abziehen und Hinzufügen von Vitaminen zu ihrer Ernährung (Williams, 1962). 1935 - 1945: Studien zeigen, Sucht ist eine Krankheit mit metabolischen Ursachen. Dr. JW Tintera, Dr. Abram Hoffer, Dr. Broda Barnes identifizieren diese metabolischen Ungleichgewichte als schlechte Nebennierenfunktion, niedrige Schilddrüse, niedrigen Blutzucker und Mangelernährung (Finnegan und Gray, 1990). 1960 - 1970: Dr. John Tintera, Endokrinologe, untersucht die Beziehung zwischen niedrigem Blutzucker und Alkoholmissbrauch. Seine Forschung zeigt, dass wiedergewonnene Alkoholiker weiterhin unter Hypoglykämie leiden, selbst nach vielen Jahren nüchtern, und dass die Kontrolle dieses Alkohols der wichtigste Teil der physiologischen Behandlung von Alkoholikern ist (Tintera, 1974; Larson, 1997).
---
+Essenszeiten
+
+Neben dem Verzehr von hochwertigen Lebensmitteln ist das Essen zur richtigen Zeit auch ein wichtiger Teil des Ernährungspuzzles zur Genesung von Suchtkranken, insbesondere bei Patienten, die hypoglykämisch oder zuckerempfindlich sind. Es ist wichtig für den Körper eine stetige Versorgung mit Treibstoff zur Kontrolle der Blutzuckerebenen zu erhalten. Dies kann die Stimmung und die Selbstkontrolle verbessern und eine ausreichende Menge an wichtigen Neurotransmittern wie Beta-Endorphin und Serotonin bereitstellen. Dies kann auch dazu beitragen, Heißhunger zu reduzieren, die oft Bemühungen zur Genesung blockieren. In den für dieses Dokument untersuchten Studien wurde gezeigt, dass verschiedene Essgewohnheiten gut für die Genesung von Süchtigen geeignet sind. Zum Beispiel empfiehlt Food  & Behavior drei Hauptmahlzeiten sowie leichte Snacks alle paar Stunden, damit Ihr Blutzucker nicht zu einem kritischen Punkt sinkt. Im Gegensatz dazu empfiehlt Potatoes nicht Prozac, in regelmäßigen Abständen nur drei proteinreiche Mahlzeiten pro Tag zu essen. Dieses Programm empfiehlt nicht die "6 mal am Tag" -Essenpläne für zuckerempfindliche Menschen, da das Naschen oft zu einer Beweidung für diejenigen führt, die empfindlich auf Zucker reagieren. Es wird empfohlen, dass Sie nie länger als 6 Stunden zwischen dem Essen bleiben, außer zwischen dem Abendessen und dem Frühstück. Im Allgemeinen müssen Sie auf Ihren Körper hören und sehen, was für Sie funktioniert. Da es nicht immer möglich ist, Zeit zu nehmen, wenn Sie hungrig sind oder einen Imbiss benötigen, sollten Sie gesunde Snacks mit sich führen, wie Nüsse und Samen, Trockenfrüchte (wenn Sie nicht zuckerempfindlich sind) und Karottenscheiben. Kann Essen bei der Genesung helfen? Während es in vielen aktuellen Programmen zur Drogen- und Alkoholwiederherstellung immer noch zur Debatte steht und nicht weit verbreitet ist, deuten eine Reihe von Studien darauf hin, dass die Korrektur biochemischer Ungleichgewichte bei der Ernährung einen Einfluss auf das Verhalten und die Genesung haben kann. Einige Studien sind in loser chronologischer Reihenfolge aufgelistet. Weitere Informationen finden Sie in Abschnitt VII. Liste der Ressourcen 1940er - 1950er Jahre: Roger J. Williams, der Biochemiker, der Folsäure genannt und Pantothensäure (eines der B-Vitamine) gefunden hat, veröffentlicht Erkenntnisse aus jahrelangen Studien an der Universität von Texas über die Auswirkungen der Ernährung auf den Alkoholkonsum bei Tieren in das Buch namens Biochemische Individualität. Die Daten zeigen, dass Tiere, die die Wahl zwischen Alkohol und Wasser hatten, häufiger Alkohol wählten, wenn sie ernährungsbedingt waren, als wenn sie gut gefüttert wurden (Williams, 1956; Williams, 1962; Beasley und Knightly, 1994). Ratten auf qualitativ hochwertigen Diäten konsumierten freiwillig viel weniger Alkohol (weniger Zucker) als Menschen mit Mangelernährung. Williams ist auch in der Lage, den Alkoholkonsum nach oben und nach unten zu verschieben, basierend auf dem absichtlichen Abziehen und Hinzufügen von Vitaminen zu ihrer Ernährung (Williams, 1962). 1935 - 1945: Studien zeigen, Sucht ist eine Krankheit mit metabolischen Ursachen. Dr. JW Tintera, Dr. Abram Hoffer, Dr. Broda Barnes identifizieren diese metabolischen Ungleichgewichte als schlechte Nebennierenfunktion, niedrige Schilddrüse, niedrigen Blutzucker und Mangelernährung (Finnegan und Gray, 1990). 1960 - 1970: Dr. John Tintera, Endokrinologe, untersucht die Beziehung zwischen niedrigem Blutzucker und Alkoholmissbrauch. Seine Forschung zeigt, dass wiedergewonnene Alkoholiker weiterhin unter Hypoglykämie leiden, selbst nach vielen Jahren nüchtern, und dass die Kontrolle dieses Alkohols der wichtigste Teil der physiologischen Behandlung von Alkoholikern ist (Tintera, 1974; Larson, 1997).
+    --
 
 Seite 35
 
-1970 - 1982: Barbara Reed Stitt, Bewährungshelferin am Amtsgericht von Cuyahoga Falls in Ohio, beginnt ein erfolgreiches Ernährungsprogramm für Probanden. Sie berichtet, dass mehr als 80 Prozent ihrer Probanden in der Lage waren, ein gesundes, kriminalfreies Leben zu führen, nachdem sie ihr Programm zur Korrektur biochemischer Ungleichgewichte mit Nahrung und besserer Ernährung durchgearbeitet hatten (Stitt, 2004). Weitere Informationen zu ihrem Programm finden Sie in ihrem Buch Ernährung und Verhalten: Eine natürliche Verbindung. 1980: Dr. Theron Randolf, der Vater der klinischen Ökologie (ein Bereich der Medizin behauptet, dass Allergien gegen Lebensmittel und Umweltchemikalien eine Reihe von körperlichen Bedingungen verursachen) findet, dass Süchte zu Essen und Alkohol abwechselnde Höhen und Tiefen erzeugen können. In seiner Arbeit mit AA entdeckt er, dass viele erholte Alkoholiker allergisch und / oder süchtig nach den Zuckern, Trauben und Körnern sind, aus denen Alkohol hergestellt wird, und dass Menschen anfangen, nach Alkohol zu streunen, wenn sie der zugrunde liegenden Komponente ausgesetzt sind (Randolph und Moss, 1980; Larson, 1992). 1983: Ruth M. Guenther, Forscherin an der Universität von Texas, untersucht Alkoholiker in einem typischen AA-Behandlungsprogramm (28 Tage in Behandlung) und vergleicht sie mit Alkoholikern im gleichen Programm mit einer zusätzlichen Ernährungskomponente, die aus Ernährungsumstellungen, Vitaminen und Mineralstoffen besteht Ergänzungen und Ernährungserziehung. Die Ernährungserziehung beinhaltete wöchentliche Kurse über die Grundlagen der Ernährung, Menüplanung, Einkaufen und Essenszubereitung und das Lesen von Etiketten, um versteckte Zucker, Alkohol und Konservierungsstoffe zu erkennen. Sie findet, dass sechs Monate nach Entlassung aus dem Krankenhaus 81 Prozent der Studiengruppe nicht tranken, verglichen mit 38 Prozent der Kontrollgruppe (Gunther, 1983; Beasley und Knightly, 1994). 1980er - 1990er Jahre: Dr. Kenneth Blum, Hirnforscher an der Universität von Texas, ist einer der frühen Forscher, der feststellt, dass Sucht eine biochemische Krankheit ist. Er findet, dass die Wiederherstellung natürlicher Endorphine und Neurotransmitter, die durch Alkohol zerstört oder aufgebraucht sind, normale Stimmungen wiederherstellen könnte (Larson, 1992). Alliance for Addictions Solutions (http://www.allianceforaddictionsolutions.org/resources/scientific-studies) bietet weitere Informationen über ihn und eine unvollständige Liste seiner Publikationen, einige aus den 1960er Jahren. 1980er Jahre: Die Forschung am Brunswick Hospital Center und an der Comprehensive Medical Care in New York wendet ein ähnliches Programm wie das oben genannte Programm von Ruth Guenther an. 111 Patienten mit schwerem und chronischem Alkoholismus nehmen teil, alle mit Mangelernährung und viele mit fehlgeschlagenen Genesungsversuchen. 80 Prozent sind klinisch unterernährt, fast zwei Drittel haben eine Lebererkrankung und fast die Hälfte ist auch süchtig nach anderen Drogen. Die Patienten verbringen 28 Tage im Krankenhaus, gefolgt von einem 12-monatigen Programm zur medizinischen Nachsorge sowie Nachsorge- und AA-Sitzungen. 91 der ursprünglich 111 Patienten waren nach einem Jahr noch im Programm und 74 Prozent waren nüchtern und stabil (Beasley und Knightly, 1994). 1986: Eine Studie von Patienten, die wegen Alkoholismus stationär behandelt werden, von denen die Hälfte nur den regulären Behandlungsplan erhält und die andere Hälfte ein Ernährungsprogramm erhält. Sechs Monate nach der Entlassung bleiben nur 33 Prozent der Patienten im normalen Programm nüchtern, während 81 Prozent der ernährungsunterstützten Gruppe nüchtern bleiben. (Phelps, Keller und Nourse, 1986; Finnegan und Gray, 1990). 1987: Joan Matthews Larson, Ph.D. veröffentlicht Ergebnisse einer Studie von 100 alkoholkranken Patienten, die an einem experimentellen 6-wöchigen ambulanten Behandlungsprogramm teilnehmen, das sich auf die biochemische Wiederherstellung in Verbindung mit einer Psychotherapie konzentriert. 85 Prozent der Menschen berichteten sich 12 und 42 Monate nach der Behandlung als abstinent und stabil. Dieser Artikel kann auf der Website der Alliance for Addiction Solutions (http://allianceforaddictionsolutions.org/images/pdfs/HRC_Alc_Study_proofed.pdf) gefunden werden. Ebenfalls, weitere Informationen zu dieser Art von Behandlungsprogramm finden Sie auch auf der Health Recovery Website (http://www.healthrecovery.com/HRC_2006/AlcoholismDrugAddict.htm).
---
+1970 - 1982: Barbara Reed Stitt, Bewährungshelferin am Amtsgericht von Cuyahoga Falls in Ohio, beginnt ein erfolgreiches Ernährungsprogramm für Probanden. Sie berichtet, dass mehr als 80 Prozent ihrer Probanden in der Lage waren, ein gesundes, kriminalfreies Leben zu führen, nachdem sie ihr Programm zur Korrektur biochemischer Ungleichgewichte mit Nahrung und besserer Ernährung durchgearbeitet hatten (Stitt, 2004). Weitere Informationen zu ihrem Programm finden Sie in ihrem Buch Ernährung und Verhalten: Eine natürliche Verbindung. 1980: Dr. Theron Randolf, der Vater der klinischen Ökologie (ein Bereich der Medizin behauptet, dass Allergien gegen Lebensmittel und Umweltchemikalien eine Reihe von körperlichen Bedingungen verursachen) findet, dass Süchte zu Essen und Alkohol abwechselnde Höhen und Tiefen erzeugen können. In seiner Arbeit mit AA entdeckt er, dass viele erholte Alkoholiker allergisch und / oder süchtig nach den Zuckern, Trauben und Körnern sind, aus denen Alkohol hergestellt wird, und dass Menschen anfangen, nach Alkohol zu streunen, wenn sie der zugrunde liegenden Komponente ausgesetzt sind (Randolph und Moss, 1980; Larson, 1992). 1983: Ruth M. Guenther, Forscherin an der Universität von Texas, untersucht Alkoholiker in einem typischen AA-Behandlungsprogramm (28 Tage in Behandlung) und vergleicht sie mit Alkoholikern im gleichen Programm mit einer zusätzlichen Ernährungskomponente, die aus Ernährungsumstellungen, Vitaminen und Mineralstoffen besteht Ergänzungen und Ernährungserziehung. Die Ernährungserziehung beinhaltete wöchentliche Kurse über die Grundlagen der Ernährung, Menüplanung, Einkaufen und Essenszubereitung und das Lesen von Etiketten, um versteckte Zucker, Alkohol und Konservierungsstoffe zu erkennen. Sie findet, dass sechs Monate nach Entlassung aus dem Krankenhaus 81 Prozent der Studiengruppe nicht tranken, verglichen mit 38 Prozent der Kontrollgruppe (Gunther, 1983; Beasley und Knightly, 1994). 1980er - 1990er Jahre: Dr. Kenneth Blum, Hirnforscher an der Universität von Texas, ist einer der frühen Forscher, der feststellt, dass Sucht eine biochemische Krankheit ist. Er findet, dass die Wiederherstellung natürlicher Endorphine und Neurotransmitter, die durch Alkohol zerstört oder aufgebraucht sind, normale Stimmungen wiederherstellen könnte (Larson, 1992). [Alliance for Addictions Solutions](http://www.allianceforaddictionsolutions.org/resources/scientific-studies) bietet weitere Informationen über ihn und eine unvollständige Liste seiner Publikationen, einige aus den 1960er Jahren. 1980er Jahre: Die Forschung am Brunswick Hospital Center und an der Comprehensive Medical Care in New York wendet ein ähnliches Programm wie das oben genannte Programm von Ruth Guenther an. 111 Patienten mit schwerem und chronischem Alkoholismus nehmen teil, alle mit Mangelernährung und viele mit fehlgeschlagenen Genesungsversuchen. 80 Prozent sind klinisch unterernährt, fast zwei Drittel haben eine Lebererkrankung und fast die Hälfte ist auch süchtig nach anderen Drogen. Die Patienten verbringen 28 Tage im Krankenhaus, gefolgt von einem 12-monatigen Programm zur medizinischen Nachsorge sowie Nachsorge- und AA-Sitzungen. 91 der ursprünglich 111 Patienten waren nach einem Jahr noch im Programm und 74 Prozent waren nüchtern und stabil (Beasley und Knightly, 1994). 1986: Eine Studie von Patienten, die wegen Alkoholismus stationär behandelt werden, von denen die Hälfte nur den regulären Behandlungsplan erhält und die andere Hälfte ein Ernährungsprogramm erhält. Sechs Monate nach der Entlassung bleiben nur 33 Prozent der Patienten im normalen Programm nüchtern, während 81 Prozent der ernährungsunterstützten Gruppe nüchtern bleiben. (Phelps, Keller und Nourse, 1986; Finnegan und Gray, 1990). 1987: Joan Matthews Larson, Ph.D. veröffentlicht Ergebnisse einer Studie von 100 alkoholkranken Patienten, die an einem experimentellen 6-wöchigen ambulanten Behandlungsprogramm teilnehmen, das sich auf die biochemische Wiederherstellung in Verbindung mit einer Psychotherapie konzentriert. 85 Prozent der Menschen berichteten sich 12 und 42 Monate nach der Behandlung als abstinent und stabil. Dieser Artikel kann auf der Website der [Alliance for Addiction Solutions](http://allianceforaddictionsolutions.org/images/pdfs/HRC_Alc_Study_proofed.pdf) gefunden werden. Ebenfalls, weitere Informationen zu dieser Art von Behandlungsprogramm finden Sie auch auf der [Health Recovery Website](http://www.healthrecovery.com/HRC_2006/AlcoholismDrugAddict.htm).
+    --
 
 Seite 36
 
-1990er Jahre: Kathleen DesMaisons, Ph.D., Präsidentin und CEO von Radiant Recovery in Burlingame, Kalifornien, gründet ein auf Ernährung und Ernährung basierendes Genesungsprogramm. Es basiert auf ihrem Drei-Jahres-Programm mit DUI-Tätern in San Mateo County, Kalifornien (genannt das Biochemische Restaurationsprogramm) bei der Verwendung von Diät und Ernährung, um Zucker Heißhunger zu reduzieren. Die Menschen werden darüber informiert, welche Lebensmittel zu vermeiden sind, wann sie essen und was sie essen sollen. Sie stellt fest, dass Personen in der Kontrollgruppe erneut wegen schwerer Verstöße angeklagt wurden, die viermal so hoch waren wie in dem ernährungsphysiologischen Programm (DesMaisons, 1992, 1998). Weitere Informationen zu diesem Programm sowie weitere hilfreiche Artikel und Ressourcenmaterialien finden Sie auf der Radiant Recovery-Website (http://www.radiantrecovery.com). 1990er - 2000er Jahre: Dr. Stephen Schoenthaler, Professor für Kriminologie und Soziologie am Cal State Stanislaus, untersucht seit über 20 Jahren die Auswirkungen von Vitaminen auf Häftlinge in Kalifornien. Seine Ergebnisse zeigen, dass junge erwachsene Männer, die Vitaminergänzungen erhalten, 38 Prozent weniger ernsthafte Verhaltensprobleme haben. In einer größeren Studie der Gefängnisdiäten in CA, NY, OK, VA und FL, findet er, dass die Essgewohnheiten der Gefangenen verwendet werden könnten, um zukünftiges gewalttätiges Verhalten vorherzusagen. Shoenthalers Studien legen nahe, dass niedrige Konzentrationen von Nährstoffen im Blut die elektrische Aktivität im Gehirn zerstören und die Verarbeitung von Neurotransmittern wie Serotonin beeinflussen können. (The Crime Diet, 2003; Allianz für Suchtlösungen, 2010). 2000: Schoenthaler und Bier (2000) untersuchen die Auswirkungen von Vitamin-Mineral-Supplementierung auf die Jugendkriminalität von Schulkindern. Ihre Ergebnisse deuten darauf hin, dass schlechte Ernährungsgewohnheiten bei Kindern zu niedrigen Konzentrationen von wasserlöslichen Vitaminen im Blut führen und die Funktion des Gehirns beeinträchtigen und anschließend zu Gewalt und anderen schwerwiegenden antisozialen Verhaltensweisen führen können. Eine Korrektur der Nährstoffzufuhr, entweder durch eine ausgewogene Ernährung oder eine niedrig dosierte Vitamin-Mineral-Ergänzung, korrigiert die niedrigen Konzentrationen von Vitaminen im Blut, verbessert die Gehirnfunktion und verringert in der Folge institutionelle Gewalt und antisoziales Verhalten um fast die Hälfte. 2002: Dr. Bernard Gesch und seine Kollegen von der Universität Oxford finden heraus, dass die Verbesserung der Ernährung junger Straftäter (Zugabe von Vitaminen, Mineralstoffen und essentiellen Fettsäuren) Straftaten um 25 Prozent reduziert (Gesch, B et al., 2002; BBC, 2002) ). 2003: Gesch, Hammond und Hampson (2003) berichten, dass nachteilige Verhaltensweisen im Gefängnis durch Vitamine, Mineralstoffe und essentielle Fettsäuren reduziert werden. Trotz der Ergebnisse merkte Gesch jedoch an, dass viele Täter nicht die richtigen Lebensmittel auswählen, selbst wenn sie verfügbar sind. 2004: Grant et al. (2004) Studie Ernährung Ausbildung in Drogenkonsum Behandlungsprogramme. Ergebnisse weisen darauf hin, dass Ernährungserziehung ein wesentlicher Bestandteil von Suchtprogrammen ist und die Behandlungsergebnisse verbessern kann. 2010: Dr. Gant, der als medizinischer Direktor am Tully Hill Hospital tätig war und in seinem Buch End Your Addiction Now (2010) berichtete, berichtet von einer Erfolgsquote von 83 Prozent bei der Beendigung von Suchtkrankheiten bei Patienten. Gant und seine Kollegen glauben, dass biochemische Ungleichgewichte im Körper behandelt werden müssen, bevor eine Erholung eintreten kann und dass Alkoholismus in erster Linie ein Ungleichgewicht im Gehirn ist, das durch einen Mangel an bestimmten Nährstoffen ausgelöst wird. Er zeigt, dass es ein kritischer Teil der Suchtbehandlung ist, fehlende Nährstoffe durch Nahrung und Nahrungsergänzungsmittel aufzufüllen. .
---
+1990er Jahre: Kathleen DesMaisons, Ph.D., Präsidentin und CEO von Radiant Recovery in Burlingame, Kalifornien, gründet ein auf Ernährung und Ernährung basierendes Genesungsprogramm. Es basiert auf ihrem Drei-Jahres-Programm mit DUI-Tätern in San Mateo County, Kalifornien (genannt das Biochemische Restaurationsprogramm) bei der Verwendung von Diät und Ernährung, um Zucker Heißhunger zu reduzieren. Die Menschen werden darüber informiert, welche Lebensmittel zu vermeiden sind, wann sie essen und was sie essen sollen. Sie stellt fest, dass Personen in der Kontrollgruppe erneut wegen schwerer Verstöße angeklagt wurden, die viermal so hoch waren wie in dem ernährungsphysiologischen Programm (DesMaisons, 1992, 1998). Weitere Informationen zu diesem Programm sowie weitere hilfreiche Artikel und Ressourcenmaterialien finden Sie auf der [Radiant Recovery-Website](http://www.radiantrecovery.com). 1990er - 2000er Jahre: Dr. Stephen Schoenthaler, Professor für Kriminologie und Soziologie am Cal State Stanislaus, untersucht seit über 20 Jahren die Auswirkungen von Vitaminen auf Häftlinge in Kalifornien. Seine Ergebnisse zeigen, dass junge erwachsene Männer, die Vitaminergänzungen erhalten, 38 Prozent weniger ernsthafte Verhaltensprobleme haben. In einer größeren Studie der Gefängnisdiäten in CA, NY, OK, VA und FL, findet er, dass die Essgewohnheiten der Gefangenen verwendet werden könnten, um zukünftiges gewalttätiges Verhalten vorherzusagen. Shoenthalers Studien legen nahe, dass niedrige Konzentrationen von Nährstoffen im Blut die elektrische Aktivität im Gehirn zerstören und die Verarbeitung von Neurotransmittern wie Serotonin beeinflussen können. (The Crime Diet, 2003; Allianz für Suchtlösungen, 2010). 2000: Schoenthaler und Bier (2000) untersuchen die Auswirkungen von Vitamin-Mineral-Supplementierung auf die Jugendkriminalität von Schulkindern. Ihre Ergebnisse deuten darauf hin, dass schlechte Ernährungsgewohnheiten bei Kindern zu niedrigen Konzentrationen von wasserlöslichen Vitaminen im Blut führen und die Funktion des Gehirns beeinträchtigen und anschließend zu Gewalt und anderen schwerwiegenden antisozialen Verhaltensweisen führen können. Eine Korrektur der Nährstoffzufuhr, entweder durch eine ausgewogene Ernährung oder eine niedrig dosierte Vitamin-Mineral-Ergänzung, korrigiert die niedrigen Konzentrationen von Vitaminen im Blut, verbessert die Gehirnfunktion und verringert in der Folge institutionelle Gewalt und antisoziales Verhalten um fast die Hälfte. 2002: Dr. Bernard Gesch und seine Kollegen von der Universität Oxford finden heraus, dass die Verbesserung der Ernährung junger Straftäter (Zugabe von Vitaminen, Mineralstoffen und essentiellen Fettsäuren) Straftaten um 25 Prozent reduziert (Gesch, B et al., 2002; BBC, 2002) ). 2003: Gesch, Hammond und Hampson (2003) berichten, dass nachteilige Verhaltensweisen im Gefängnis durch Vitamine, Mineralstoffe und essentielle Fettsäuren reduziert werden. Trotz der Ergebnisse merkte Gesch jedoch an, dass viele Täter nicht die richtigen Lebensmittel auswählen, selbst wenn sie verfügbar sind. 2004: Grant et al. (2004) Studie Ernährung Ausbildung in Drogenkonsum Behandlungsprogramme. Ergebnisse weisen darauf hin, dass Ernährungserziehung ein wesentlicher Bestandteil von Suchtprogrammen ist und die Behandlungsergebnisse verbessern kann. 2010: Dr. Gant, der als medizinischer Direktor am Tully Hill Hospital tätig war und in seinem Buch End Your Addiction Now (2010) berichtete, berichtet von einer Erfolgsquote von 83 Prozent bei der Beendigung von Suchtkrankheiten bei Patienten. Gant und seine Kollegen glauben, dass biochemische Ungleichgewichte im Körper behandelt werden müssen, bevor eine Erholung eintreten kann und dass Alkoholismus in erster Linie ein Ungleichgewicht im Gehirn ist, das durch einen Mangel an bestimmten Nährstoffen ausgelöst wird. Er zeigt, dass es ein kritischer Teil der Suchtbehandlung ist, fehlende Nährstoffe durch Nahrung und Nahrungsergänzungsmittel aufzufüllen. .
+    --
 
 Seite 37
 
-```
-# VII. Liste der Ressourcen
-```
 
-Es gibt viele Ressourcen für mehr Informationen über Ernährung und Sucht.```
-#todo translate?
-```Bücher Addictions: A Nutritional Approach to Recovery (1989) by John Finnegan, a nutritional and environment consultant working in the holistic health care field. This book is very useful for information about the metabolic basis of addictions. It lists nutritional and medical therapies to help correct biochemical disorders at the heart of addictions. Also included in the book is useful information about herbal extracts that can be used to help detoxify the system, rebuild the endocrine glandular and liver function, and strengthen the blood sugar/nervous systems/metabolic function. The Appendices list herbal supplement purveyors as well as further Ressourcen. Cleansing the Body, Mind, and Spirit (1998) by Carolyn Reuben. This book contains a wide range of ways to detoxify the body. Chapter 14 “Addiction and Substance Abuse Detox” is particularly useful. This book is currently out of print but can be bought “used” on the Internet. The Diet Cure (1999) and The Mood Cure (2002) by Julia Ross, MA, MFCC, the Executive Director of Recovery Systems in Mill Valley, California. This book contains useful nutrition information, especially about amino acids that can be used to jump-start a recovery program. Sie also includes charts, work sheets, meal plans, and recipes to customize your own program. End Your Addiction Now (2002) by Charles Gant, MD and Greg Lewis, Ph.D. This book is useful to learn more about the health consequences of using addicted substances, especially information about neurotransmitters and the brain. Included in the book are questionnaires to help pinpoint nutritional deficiencies and information about nutritional supplements. Fall studies are included as well as Appendices with resources for purchasing nutritional supplements and support organizations. Feed Yourself Right (1983) by Lendon Smith, MD This book contains useful information about a variety of health-related problems that recovering addicts may face, like abdominal discomfort and headaches. Under each section the author includes some restorative foods that would be helpful for the related health issue along with foods to avoid. Food and Behavior: A Natural Connection (2004) by Barbara Reed Stitt, Ph.D., a former probation officer for the Cuyahoga Falls Municipal Court in Ohio who developed a diet-baseed therapy program for probationers. This book describes the program and provides useful information about health issues related to addiction such as hypoglycemia, food allergies, adrenal gland fatigue, and nutritional deficiencies as well as specific food choices to help with each Bedingung.
+# VII. Liste der Ressourcen
+
+
+Es gibt viele Ressourcen für mehr Informationen über Ernährung und Sucht.
+    #todo translate?
+Bücher Addictions: A Nutritional Approach to Recovery (1989) by John Finnegan, a nutritional and environment consultant working in the holistic health care field. This book is very useful for information about the metabolic basis of addictions. It lists nutritional and medical therapies to help correct biochemical disorders at the heart of addictions. Also included in the book is useful information about herbal extracts that can be used to help detoxify the system, rebuild the endocrine glandular and liver function, and strengthen the blood sugar/nervous systems/metabolic function. The Appendices list herbal supplement purveyors as well as further Ressourcen. Cleansing the Body, Mind, and Spirit (1998) by Carolyn Reuben. This book contains a wide range of ways to detoxify the body. Chapter 14 “Addiction and Substance Abuse Detox” is particularly useful. This book is currently out of print but can be bought “used” on the Internet. The Diet Cure (1999) and The Mood Cure (2002) by Julia Ross, MA, MFCC, the Executive Director of Recovery Systems in Mill Valley, California. This book contains useful nutrition information, especially about amino acids that can be used to jump-start a recovery program. Sie also includes charts, work sheets, meal plans, and recipes to customize your own program. End Your Addiction Now (2002) by Charles Gant, MD and Greg Lewis, Ph.D. This book is useful to learn more about the health consequences of using addicted substances, especially information about neurotransmitters and the brain. Included in the book are questionnaires to help pinpoint nutritional deficiencies and information about nutritional supplements. Fall studies are included as well as Appendices with resources for purchasing nutritional supplements and support organizations. Feed Yourself Right (1983) by Lendon Smith, MD This book contains useful information about a variety of health-related problems that recovering addicts may face, like abdominal discomfort and headaches. Under each section the author includes some restorative foods that would be helpful for the related health issue along with foods to avoid. Food and Behavior: A Natural Connection (2004) by Barbara Reed Stitt, Ph.D., a former probation officer for the Cuyahoga Falls Municipal Court in Ohio who developed a diet-baseed therapy program for probationers. This book describes the program and provides useful information about health issues related to addiction such as hypoglycemia, food allergies, adrenal gland fatigue, and nutritional deficiencies as well as specific food choices to help with each Bedingung.
 
 --
 
 Seite 38
 
-Food for Recovery (1994) by Joseph Beasley, MD, Director of Comprehensive Medical Care, PD in Amityville, Long Island, and Susan Knightly, co-owner of the first wholefoods restaurant in Amherst, Massachusetts, professional chef, teacher, and food writer specializing in recovery Kochen. This book covers all topics related to food and addiction. The second half of the book includes numerous recipes, many of which contain a summary explaining why the recipe is suited for a recovering addict. For example, the Whole Wheat Pancakes with Strawberry Syrup recipe states: “Pancakes made from whole-grain flours have a richer flavor and are more filling. Here, the nutrient density is augmented by the topping of fruit. In addition to being high in vitamin C, the sauce has fewer calories than commercial maple syrup. This breakfast is high in B vitamins, manganese, calcium, protein, complex carbohydrates, and phosphorus.” All the recipes use a variety of grains, few dairy products, and little to no sugar to accommodate people with food allergies or sensitivities. The Healing Nutrients Within (1987) by Eric R. Braverman, MD, with Carl C. Pfeiffer, MD, Ph.D., Ken Blum, Ph.D., & Richard Smayda, DO This book provides important information about amino acids which can be applied to addiction. Natural Highs (2002) by Hyla Cass, MD, a Los Angeles holistic psychiatrist, author, and frequent presenter on integrative medicine, and co-author Patrick Holford, an author and leading nutritionist in the UK. This book contains useful information about how to feel good naturally by altering your brain, moods, and cravings using a combination of supplements and mind-body techniques. Potatoes Not Prozac (1998) by Kathleen DesMaisons, PhD, president and CEO of Radiant Recovery, a treatment program for alcoholism, drug addiction, depression and compulsive behavior using medical and holistic approaches. This book describes how to overcome sugar dependency. It includes self-tests to determine sugar sensitivity along with detailed information about dietary choices. Seven Weeks to Sobriety (1992) by Joan Mathews Larson, Ph.D., Director of Health Recovery Systems in Minneapolis, Minnesota. This book is a step-by-step, week-by-week resource on how to fight alcoholism through nutrition. Her research has identified a number of common nutritional deficiencies and biochemical imbalances for alcoholics that, when treated through dietary changes, has shown a 75 percent success rate. Sugar Shock! (2007) by Connie Bennett, CHHC and Stephen T. Sinatra, MD This book is full of information for people who eat too many processed sweets and simple carbohydrates. This book describes hypoglycemia in depth as well as other related problems. Under the Influence: A Guide to the Myths and Realities of Alcoholism (1983) by Dr. James R. Milam and Katherine Ketcham. This book is one of the earlier books suggesting the link between nutrition and addiction. Webressourcen Alliance for Addiction Solutions ( http://www.allianceforaddictionsolutions.org/home ). This is an international nonprofit organization dedicated to promoting effective nutritional and other natural methods to treat
+Food for Recovery (1994) by Joseph Beasley, MD, Director of Comprehensive Medical Care, PD in Amityville, Long Island, and Susan Knightly, co-owner of the first wholefoods restaurant in Amherst, Massachusetts, professional chef, teacher, and food writer specializing in recovery Kochen. This book covers all topics related to food and addiction. The second half of the book includes numerous recipes, many of which contain a summary explaining why the recipe is suited for a recovering addict. For example, the Whole Wheat Pancakes with Strawberry Syrup recipe states: “Pancakes made from whole-grain flours have a richer flavor and are more filling. Here, the nutrient density is augmented by the topping of fruit. In addition to being high in vitamin C, the sauce has fewer calories than commercial maple syrup. This breakfast is high in B vitamins, manganese, calcium, protein, complex carbohydrates, and phosphorus.” All the recipes use a variety of grains, few dairy products, and little to no sugar to accommodate people with food allergies or sensitivities. The Healing Nutrients Within (1987) by Eric R. Braverman, MD, with Carl C. Pfeiffer, MD, Ph.D., Ken Blum, Ph.D., & Richard Smayda, DO This book provides important information about amino acids which can be applied to addiction. Natural Highs (2002) by Hyla Cass, MD, a Los Angeles holistic psychiatrist, author, and frequent presenter on integrative medicine, and co-author Patrick Holford, an author and leading nutritionist in the UK. This book contains useful information about how to feel good naturally by altering your brain, moods, and cravings using a combination of supplements and mind-body techniques. Potatoes Not Prozac (1998) by Kathleen DesMaisons, PhD, president and CEO of Radiant Recovery, a treatment program for alcoholism, drug addiction, depression and compulsive behavior using medical and holistic approaches. This book describes how to overcome sugar dependency. It includes self-tests to determine sugar sensitivity along with detailed information about dietary choices. Seven Weeks to Sobriety (1992) by Joan Mathews Larson, Ph.D., Director of Health Recovery Systems in Minneapolis, Minnesota. This book is a step-by-step, week-by-week resource on how to fight alcoholism through nutrition. Her research has identified a number of common nutritional deficiencies and biochemical imbalances for alcoholics that, when treated through dietary changes, has shown a 75 percent success rate. Sugar Shock! (2007) by Connie Bennett, CHHC and Stephen T. Sinatra, MD This book is full of information for people who eat too many processed sweets and simple carbohydrates. This book describes hypoglycemia in depth as well as other related problems. Under the Influence: A Guide to the Myths and Realities of Alcoholism (1983) by Dr. James R. Milam and Katherine Ketcham. This book is one of the earlier books suggesting the link between nutrition and addiction. Webressourcen [Alliance for Addiction Solutions]( http://www.allianceforaddictionsolutions.org/home ). This is an international nonprofit organization dedicated to promoting effective nutritional and other natural methods to treat
 
 --
 
 Seite 39
 
-addiction. They advocate the use of innovative techniques to establish individualized biochemical balancing of the addicted brain and body. The website contains useful resources, especially in the “Scientific Studies” section. The Best Prognosis: Integrated, Holistic Approach to Addictive Disorders ( http://www.allianceforaddictionsolutions.org/images/pdfs/integrated-holistic-approach.pdf ). This is a recent article in the May/June 2009 edition of the magazine Addiction Today that describes seven areas of focus that can bring about a fuller recovery process: 1. Nutritional and Biochemical Repair; 2. Healthy Self-Care; 3. Healthy Emotional Management & Intelligence; 4. Trauma Healing; 5. Self-Acceptance; 6. Positive Relationships; and 7. Conscious Living. Center for Disease Control: Nutrition for Everyone ( http://www.cdc.gov/nutrition/everyone/index.html ). This CDC site has compiled a variety of resources to help educate you about nutrition and healthy eating habits. The Effects of Diet on Behavior: Implications for Criminology and Corrections by Diana Fishbein, Ph.D. and Susan Pease, Ph.D. This document ( http://www.nicic.org/pubs/pre/006777.pdf ) investigates the physiological dynamics of the human body and how the body relates to food such as carbohydrates and glucose. Es bietet ein overview of studies up to the date of publication (1988) concerning the relationship between diet and behavior, particularly as it relates to practices in institutional corrections. The Institute for Integrative Nutrition ( http://www.integrativenutrition.com/connect/recipes ). This website provides some nutritional recipes from the world's largest nutrition school, offering education with Deepak Chopra, Dr. Andrew Weil, and many more of the world's leaders in health and wellness. The National Institute on Drug Abuse ( http://www.drugabuse.gov ). This website contains useful information about the science of drug abuse and addiction. Among the helpful resources is the “Drug Abuse and Related Topics” section, which contains links to specific information and publications about individual drugs. Pfeiffer Treatment Center Annotated Bibliography ( http://www.hriptc.org/content/behavioralDisorders.php ). This is a bibliographic list of articles, including summaries of each article, relating diet and behavioral disorders. The site also has a bibliography list and summaries for articles on depression ( http://www.hriptc.org/content/depression.php ) and violent/aggressive behavior ( http://www.hriptc.org/content/aggressive.php ). Radiant Recovery-Treatment Center ( Http://www.radiantrecovery.com/ ). Diese Website hat eine Vielzahl von Informationen über alternativeBehandlungsprogramme. Insbesondere gibt es eine „Ressource“ Zentrum, das Links zu Artikeln enthält und Weitere Informationen über die Wissenschaft hinter Zucker Empfindlichkeiten. Die USDA Nährwertes Foods Führer ( Http://www.ars.usda.gov/SP2UserFiles/Place/12354500/Data/hg72/hg72_2002.pdf ). Veröffentlicht 2002 enthält diese Führungsdaten zu über 1.274 Lebensmitteln. Lebensmittel aufgelistet zusammen mit ihrem Ernährungsqualität unter Berücksichtigung Nährstoffe wie Fett, Ballaststoffe, Vitamine und Mineralien.
+    #todo fix links for markdown
+
+addiction. They advocate the use of innovative techniques to establish individualized biochemical balancing of the addicted brain and body. The website contains useful resources, especially in the “Scientific Studies” section. [The Best Prognosis: Integrated, Holistic Approach to Addictive Disorders]( http://www.allianceforaddictionsolutions.org/images/pdfs/integrated-holistic-approach.pdf ). This is a recent article in the May/June 2009 edition of the magazine Addiction Today that describes seven areas of focus that can bring about a fuller recovery process: 1. Nutritional and Biochemical Repair; 2. Healthy Self-Care; 3. Healthy Emotional Management & Intelligence; 4. Trauma Healing; 5. Self-Acceptance; 6. Positive Relationships; and 7. Conscious Living. Center for Disease Control: Nutrition for Everyone ( http://www.cdc.gov/nutrition/everyone/index.html ). This CDC site has compiled a variety of resources to help educate you about nutrition and healthy eating habits. The Effects of Diet on Behavior: Implications for Criminology and Corrections by Diana Fishbein, Ph.D. and Susan Pease, Ph.D. This document ( http://www.nicic.org/pubs/pre/006777.pdf ) investigates the physiological dynamics of the human body and how the body relates to food such as carbohydrates and glucose. Es bietet ein overview of studies up to the date of publication (1988) concerning the relationship between diet and behavior, particularly as it relates to practices in institutional corrections. The Institute for Integrative Nutrition ( http://www.integrativenutrition.com/connect/recipes ). This website provides some nutritional recipes from the world's largest nutrition school, offering education with Deepak Chopra, Dr. Andrew Weil, and many more of the world's leaders in health and wellness. The National Institute on Drug Abuse ( http://www.drugabuse.gov ). This website contains useful information about the science of drug abuse and addiction. Among the helpful resources is the “Drug Abuse and Related Topics” section, which contains links to specific information and publications about individual drugs. Pfeiffer Treatment Center Annotated Bibliography ( http://www.hriptc.org/content/behavioralDisorders.php ). This is a bibliographic list of articles, including summaries of each article, relating diet and behavioral disorders. The site also has a bibliography list and summaries for articles on depression ( http://www.hriptc.org/content/depression.php ) and violent/aggressive behavior ( http://www.hriptc.org/content/aggressive.php ). Radiant Recovery-Treatment Center ( Http://www.radiantrecovery.com/ ). Diese Website hat eine Vielzahl von Informationen über alternativeBehandlungsprogramme. Insbesondere gibt es eine „Ressource“ Zentrum, das Links zu Artikeln enthält und Weitere Informationen über die Wissenschaft hinter Zucker Empfindlichkeiten. Die USDA Nährwertes Foods Führer ( Http://www.ars.usda.gov/SP2UserFiles/Place/12354500/Data/hg72/hg72_2002.pdf ). Veröffentlicht 2002 enthält diese Führungsdaten zu über 1.274 Lebensmitteln. Lebensmittel aufgelistet zusammen mit ihrem Ernährungsqualität unter Berücksichtigung Nährstoffe wie Fett, Ballaststoffe, Vitamine und Mineralien.
 
 --
 
