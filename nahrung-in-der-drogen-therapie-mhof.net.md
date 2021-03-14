@@ -1,8 +1,8 @@
 
 # Nahrung in der Drogen Therapie
 
-#### Eine Übersetzung von: [Nutrition in Addiction Recovery](<http://mhof.net/articles/nutrition-addiction-recovery.html>)
-#### Im Original von: Rebecca Place Miller, Many Hands Organic Farm
+#### Eine Übersetzung von: [Nutrition in Addiction Recovery](https://mhof.net/nutrition-in-addiction-recovery-study/)
+#### Im Original von: Rebecca Place Miller, Many Hands Organic Farm, 2010-05
 
 [//]: # (# )
 [//]: # (# nutrition in addiction recovery)
@@ -25,6 +25,7 @@
 [//]: # (# 2018-02-06 17:00 manual translate to line 1264 = page 12)
 [//]: # (# 2018-02-11 09:40 manual translate to line 1408)
 [//]: # (# 2018-02-16 16:20 manual translate to line 1509)
+[//]: # (# 2021-03-14 fix link to mhof.net)
 [//]: # (# )
 
 ```text
